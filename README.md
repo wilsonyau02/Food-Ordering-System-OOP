@@ -5,7 +5,7 @@ Using advanced OO concepts such as encapsulation, polymorphism, inheritance, and
 
 ## 🛠 Techniques
 - **Programming Language:** Java (OOP)
-- **Design:** UML Diagram (Link or Image Here)
+- **Design:** ![UML Diagram](UML Diagram.png)
 
 ## 🌟 Features
 
