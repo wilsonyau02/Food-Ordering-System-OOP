@@ -5,7 +5,7 @@ Using advanced OO concepts such as encapsulation, polymorphism, inheritance, and
 
 ## 🛠 Techniques
 - **Programming Language:** Java (OOP)
-- **Design:** ![UML Diagram](UML Diagram.png)
+- **Design:** [UML Diagram](UML-Diagram.png)
 
 ## 🌟 Features
 
@@ -34,6 +34,16 @@ Using advanced OO concepts such as encapsulation, polymorphism, inheritance, and
 
 ## 🔐 Authentication 
 - Login mechanisms for both customers and staff
+
+## 📖 User Manual
+
+For detailed instructions on how to use the Food Ordering System, please refer to `UserManual.txt` located in this repository.
+
+### 🔑 Dummy Data for Login
+For a quick start, you can use the dummy data provided in `UserManual.txt` to login and explore the features of the system. 
+
+Ensure you follow the user guidelines presented in the manual for a smooth experience!
+
 
 ## 📜 Team Members
 
