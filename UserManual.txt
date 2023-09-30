@@ -1,0 +1,18 @@
+-First, it is required to install and use JDK17 or JDK18 to support some featuers such as .repeat() method.
+-To login to the system as staff and customer, the sample data is provided as below:
+
+Manager 
+Username: Jack Ma
+Password: M001JackMa
+
+Delivery Man
+Username: Nelson
+Password: D002Nelson
+
+Customer:
+Username: Jennie
+Password: aloha123.
+
+Customer
+Username: Wilson
+Password: Wilson321.
